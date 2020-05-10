@@ -13,7 +13,7 @@ public class CarExample {
 			showvalue(car2);
 			
 			Car car3 = new Car("소나타 ","은색");
-			showvalue(car3);
+			showvalue(car3); 
 			
 	}
 	public static void showvalue(Car car ) {
