@@ -3,7 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=git,eclipse,visualstudio
 
 ### Eclipse ###
-.metadata
+.metadata/
 bin/
 tmp/
 *.tmp
@@ -14,7 +14,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
+*.class
 # External tool builders
 .externalToolBuilders/
 
@@ -436,3 +436,4 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/git,eclipse,visualstudio
+*.zip
