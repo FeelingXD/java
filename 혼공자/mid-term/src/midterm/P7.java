@@ -27,7 +27,7 @@ public class P7 {
 		String str7 = "false";
 		boolean value7 = Boolean.parseBoolean(str7);
 		
-		System.out.println(str1 +"\n"+str2+"\n" +str3+"\n" +str4+"\n" +str5+"\n" +str6+"\n" +str7);
+		System.out.println(value1 +"\n"+value2+"\n" +value3+"\n" +value4+"\n" +value5+"\n" +value6+"\n" +value7);
 	}
 
 }
