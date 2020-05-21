@@ -33,7 +33,7 @@ public class P12 {
 			System.out.println("6학년 : 4만5천원 ");
 			break;
 		default :
-			System.out.println("오류 ");
+			System.out.println("오류");
 			break;
 		}
 	}//왜 학년에따라 급식비가 다른지 모르겟다 학년마다 다른걸먹나 

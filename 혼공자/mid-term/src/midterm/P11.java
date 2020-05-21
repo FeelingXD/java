@@ -24,7 +24,6 @@ public class P11 {
 		}
 		else
 			System.out.println("F");
-		
 	}
 
 }
