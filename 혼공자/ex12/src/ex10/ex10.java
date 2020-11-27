@@ -1,8 +1,5 @@
 package ex10;
 
-import ex9.Sedan;
-import ex9.Truck;
-
 interface Car{
 	static final int CAR_COUNT = 0;
 	abstract void work();

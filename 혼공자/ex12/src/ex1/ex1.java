@@ -1,5 +1,4 @@
 package ex1;
-
 class Car{
 	String color;
 	int speed;
